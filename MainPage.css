@@ -1,14 +1,45 @@
 body  {background-color: white;}
 p  {font-family: 'Roboto Serif', sans-serif;
     font-size: 20px;
+    text-align: center;
 }
+
+
 h1  {
     font-family: 'Roboto Serif', sans-serif;
     font-size: 70px;
+    text-align: center;
 } 
+
+h2 {
+
+    font-family: 'Roboto Serif', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(48, 48, 48);
+
+}
+
+h3 {
+
+    font-family: 'Roboto Serif', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(48, 48, 48);
+
+}
+
 
 .cool{
     border:solid;
-    border-color: gray;
-    border-width: 2px;
+    border-color: rgb(224, 224, 224);
+    border-width: 1px;
+}
+
+.lol{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
